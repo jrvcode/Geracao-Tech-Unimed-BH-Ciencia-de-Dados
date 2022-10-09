@@ -12,7 +12,7 @@ A entrada é composta por 3 inteiros, N(0 < N < 10000), X e Y(0 < X, Y < 100), q
 Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais.
 
 ### Resultado
-https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios%20Iniciais%20Py%20-%20Unimed-BH/As%20Duas%20Torres.py
+https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios-Iniciais-Py-Unimed-BH/As_Duas_Torres.py
 
 
 # Cachorros Quentes
@@ -31,3 +31,4 @@ A entrada consiste de uma única linha que contém dois inteiros H e P (1 ≤ H,
 Seu programa deve produzir uma única linha com um número racional representando o número médio de cachorros-quentes consumidos pelos participantes. O resultado deve ser escrito como um número racional com exatamente dois dígitos após o ponto decimal, arredondado se necessário.
 
 ### Resultado
+https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios-Iniciais-Py-Unimed-BH/Cachorros_Quentes.py
