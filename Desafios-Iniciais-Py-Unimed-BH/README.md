@@ -48,3 +48,4 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 
 ### Resultado
+https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios-Iniciais-Py-Unimed-BH/3-3_Calculo_de_Viagem.py
