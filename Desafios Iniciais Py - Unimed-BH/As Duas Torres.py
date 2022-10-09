@@ -1,4 +1,6 @@
 #As Duas Torres
+# Desafio 1/3:
+# https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios%20Iniciais%20Py%20-%20Unimed-BH/README.md
 
 entrada = input().split()
 
