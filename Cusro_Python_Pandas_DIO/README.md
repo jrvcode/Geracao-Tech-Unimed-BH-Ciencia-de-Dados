@@ -10,4 +10,4 @@
  1. Visualização de dados
  1. Análise Exploratória de dados
 
-https://matplotlib.org/
+Documentação do Matplotlib: https://matplotlib.org/
