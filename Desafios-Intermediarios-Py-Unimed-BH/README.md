@@ -29,3 +29,28 @@ Para cada condição de levantamento de pernas do papagaio, imprima a linguagem 
 https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios-Intermediarios-Py-Unimed-BH/1-2_Papagaio_Poliglota.py
 
 ---
+
+# 3 / 3 - Aumento Salarial
+A empresa que você trabalha resolveu conceder um aumento salarial a todos funcionários, de acordo com a tabela abaixo:
+
+Percentual de Reajuste = Salário
+17% = 0 - 600.00
+13% = 600.01 - 900.00
+12% = 900.01 - 1500.00
+10% = 1500.01 - 2000.00
+05% = Acima de 2000.00
+
+Leia o salário do funcionário e calcule e mostre o novo salário, bem como o valor de reajuste ganho e o índice reajustado, em percentual.
+
+### Entrada
+A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igual a zero, com duas casas decimais, conforme exemplos abaixo.
+
+### Saída
+1000
+
+Novo salario: 1120,00 
+Reajuste ganho: 120,00                                                                                     
+Em percentual: 12 %
+
+### Resultado
+
