@@ -26,6 +26,6 @@ A entrada consiste de diversos casos de teste. Cada caso de teste consiste uma s
 Para cada condição de levantamento de pernas do papagaio, imprima a linguagem que ele utilizará. Caso ele levante ambas as pernas, imprima “caiu”. Quebre uma linha a cada caso de teste.
 
 ### Resultado
+https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios-Intermediarios-Py-Unimed-BH/1-2_Papagaio_Poliglota.py
 
 ---
-
