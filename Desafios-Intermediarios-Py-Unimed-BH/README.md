@@ -10,3 +10,7 @@ Um único caracter N, uma letra maiúscula ('A'-'Z') do alfabeto (que contém 26
 Um único inteiro, que representa a posição da letra no alfabeto.
 
 ### Resultado
+https://github.com/jrvcode/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Desafios-Intermediarios-Py-Unimed-BH/1-3_Alfabeto.py
+
+----
+
